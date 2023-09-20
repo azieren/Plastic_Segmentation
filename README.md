@@ -13,7 +13,9 @@ python train.py --dataset plastic --model "fusion/dilation/unet/tunet/tunet2/DVL
 
 # Inference
 Modify l100-101 in inference2.py to choose which video to process
+
 -- ptype = "010_Blinded1/4_BottomRight" #  Kaolinite - Cellulose - HDPE - HDPEre - PETE - PETEre - PVC - PVCre - Algae - 010_Blinded1/1_TopLeft/2_TopRight/3_BottomLeft/4_BottomRight
+
 -- output_dir = ""
 
 python inference2.py --dataset plastic --model "fusion/dilation/unet/tunet/tunet2/DVLab3"
