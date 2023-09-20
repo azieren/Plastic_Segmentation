@@ -1,5 +1,5 @@
 # Plastic_Segmentation
-Training and inference of A Deep Learning Model for segmenting plastic particle captured with SEM
+Training and inference of a Deep Learning Model for segmenting plastic particle captured with SEM
 
 # Prepare Plastic Dataset
 Download images and annotations at: https://drive.google.com/drive/folders/19OfFWVn8J_V-zTI5V_ZcGC0xpxUNK7MV?usp=drive_link
