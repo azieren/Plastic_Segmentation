@@ -3,6 +3,7 @@ Training and inference of a Deep Learning Model for segmenting plastic particle 
 
 # Prepare Plastic Dataset
 Download images and annotations at: https://drive.google.com/drive/folders/19OfFWVn8J_V-zTI5V_ZcGC0xpxUNK7MV?usp=drive_link
+
 The images are annotated plastic particles and their corresponding GT masks coupled with cells data and thheir GT masks.
 
 Place the images under the folder "plastic_data/"
