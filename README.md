@@ -1,4 +1,9 @@
 # Plastic_Segmentation
+
+Implementation of the paper: 
+[A Novel Approach for Identifying Nanoplastics by Assessing Deformation Behavior with Scanning Electron Microscopy
+JS Stine, N Aziere, BJ Harper, SL Harper - Micromachines, 2023](https://www.mdpi.com/2072-666X/14/10/1903) - at MDPI
+
 Training and inference of a Deep Learning Model for segmenting plastic particle captured with SEM
 
 # Prepare Plastic Dataset
